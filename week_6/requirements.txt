@@ -1,1 +1,7 @@
-
+gymnasium
+torch
+torch.nn
+torch.optim
+numpy
+matplotlib.pyplot 
+from torch.distributions import Normal
