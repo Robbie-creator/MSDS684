@@ -1,1 +1,6 @@
-
+numpy 
+gymnasium
+random
+heapq
+matplotlib.pyplot 
+matplotlib.patches
